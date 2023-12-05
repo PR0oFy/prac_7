@@ -1,0 +1,3 @@
+interface Coffi {
+    fun drinkSale()
+}

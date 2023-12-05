@@ -1,0 +1,3 @@
+interface ProsmotrChacky {
+    fun showCheckPhoto()
+}
